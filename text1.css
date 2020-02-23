@@ -1,3 +1,17 @@
 #title{
     font-size: 4em;
+    color:greenyellow;
+    text-align:center;
+}
+
+img{
+    width:100vw;
+    height:100vh;
+}
+#descriptionContainer p{
+    font-size:2em;
+}
+#descriptionContainer{
+    border:3px gray solid;
+    margin:50px;
 }
